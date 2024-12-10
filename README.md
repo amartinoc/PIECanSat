@@ -17,3 +17,6 @@ https://youtube.com/playlist?list=PLC6C1fGD_9F0GbCsKl-SWN-UvC2OOUoYf&si=c58Q6RX8
 
 Ejemplo prototipo CanSat: 
 https://youtu.be/jcBtME09mhs
+
+Democratizando CanSat
+https://clubroboticagranada.github.io/democratizandoCansat/index.html
