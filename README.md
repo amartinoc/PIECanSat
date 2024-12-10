@@ -20,3 +20,6 @@ https://youtu.be/jcBtME09mhs
 
 Democratizando CanSat
 https://clubroboticagranada.github.io/democratizandoCansat/index.html
+
+Canal youtube montaje CanSat
+https://www.youtube.com/watch?v=jcBtME09mhs
